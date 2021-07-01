@@ -1,5 +1,5 @@
 const foxImg = document.querySelector('#fox')
-const foxSays = new Audio("/audio/fox.mp3")
+const foxSays = new Audio("audio/fox.mp3")
 console.log(foxSays)
 
 
